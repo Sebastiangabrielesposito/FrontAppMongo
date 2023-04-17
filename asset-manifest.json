@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/universalMarket/static/css/main.521c9ed6.css",
-    "main.js": "/universalMarket/static/js/main.f80cb1a1.js",
-    "static/media/GanadorMassTech.webp": "/universalMarket/static/media/GanadorMassTech.bfaa8d049ebf28d50e28.webp",
-    "static/media/CreatinaUltimate.webp": "/universalMarket/static/media/CreatinaUltimate.d2f49b9b80b240038967.webp",
-    "static/media/AminoBsn.webp": "/universalMarket/static/media/AminoBsn.0d135200af54c9e3da2d.webp",
-    "static/media/ProteinaEna.webp": "/universalMarket/static/media/ProteinaEna.406edd3d84bd329450a6.webp",
-    "static/media/Ganador-MutanMass.webp": "/universalMarket/static/media/Ganador-MutanMass.208bca0d5709548c491d.webp",
-    "static/media/Protein-Star.webp": "/universalMarket/static/media/Protein-Star.85d4b0a6d136e68d349a.webp",
-    "static/media/slick.svg": "/universalMarket/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/universalMarket/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/universalMarket/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/universalMarket/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/universalMarket/index.html",
-    "main.521c9ed6.css.map": "/universalMarket/static/css/main.521c9ed6.css.map",
-    "main.f80cb1a1.js.map": "/universalMarket/static/js/main.f80cb1a1.js.map"
+    "main.css": "/FrontAppMongo/static/css/main.b5bb2c66.css",
+    "main.js": "/FrontAppMongo/static/js/main.7b524715.js",
+    "static/media/GanadorMassTech.webp": "/FrontAppMongo/static/media/GanadorMassTech.bfaa8d049ebf28d50e28.webp",
+    "static/media/CreatinaUltimate.webp": "/FrontAppMongo/static/media/CreatinaUltimate.d2f49b9b80b240038967.webp",
+    "static/media/AminoBsn.webp": "/FrontAppMongo/static/media/AminoBsn.0d135200af54c9e3da2d.webp",
+    "static/media/ProteinaEna.webp": "/FrontAppMongo/static/media/ProteinaEna.406edd3d84bd329450a6.webp",
+    "static/media/Ganador-MutanMass.webp": "/FrontAppMongo/static/media/Ganador-MutanMass.208bca0d5709548c491d.webp",
+    "static/media/Protein-Star.webp": "/FrontAppMongo/static/media/Protein-Star.85d4b0a6d136e68d349a.webp",
+    "static/media/slick.svg": "/FrontAppMongo/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/FrontAppMongo/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/FrontAppMongo/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/FrontAppMongo/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/FrontAppMongo/index.html",
+    "main.b5bb2c66.css.map": "/FrontAppMongo/static/css/main.b5bb2c66.css.map",
+    "main.7b524715.js.map": "/FrontAppMongo/static/js/main.7b524715.js.map"
   },
   "entrypoints": [
-    "static/css/main.521c9ed6.css",
-    "static/js/main.f80cb1a1.js"
+    "static/css/main.b5bb2c66.css",
+    "static/js/main.7b524715.js"
   ]
 }
