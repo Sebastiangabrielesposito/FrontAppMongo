@@ -1,0 +1,25 @@
+
+.carro{
+    margin-bottom: 2px;
+}
+.carro:hover{
+    color:lightblue;
+    transition: all 0.5s ease-out;
+    
+}
+@media (max-width: 600px) {
+    .carro{
+        opacity: 1;
+    }
+}
+.Car{
+    animation-name: animatedCar;
+    animation-iteration-count: infinite;
+    animation-duration: 1.5s;
+    animation-delay: 1s;
+}
+@keyframes animatedCar{
+    0%{color: white;}
+    50%{color: rgb(1, 14, 19);}
+    100%{color: white;}
+}

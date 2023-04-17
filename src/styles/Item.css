@@ -1,0 +1,123 @@
+.FlexItemList{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 0px;
+    padding: 15px;
+    background-color: rgb(0, 0, 0);
+}
+.FlexItem{
+    display: flex;
+    flex-direction: row;
+    justify-content: center; 
+    gap: 35px;
+    flex-wrap: wrap;
+    padding: 15px;
+    background-color: rgb(0, 0, 0);
+    /* margin-top: 0px;   */
+}@media (min-width: 1200px)  {
+    .FlexItemList{
+        gap:40px
+    }
+}
+.FlexItem1{
+    /* border: 0.5px inset  #fff; */
+    padding: 10px;
+    background: #fff;
+    border: 2px solid grey;
+    border-radius: 3%;
+    transition: all 0.5s ease-out;
+}.FlexItem1:hover{
+    transform: scale(1.1);
+    transition: all 0.5s ease-out;
+}
+.item{
+    text-align: center;
+    font-size: 13px;
+    color: #394870;
+    /* color: #f17a7a; */
+    margin-top: 20px;
+    margin-bottom: 3px;
+    cursor: pointer;
+    transition: all 0.6s ease-in-out;
+}.item:hover{
+    color: lightblue;
+    transition: all 0.6s ease-in-out;
+}
+.itemCant{
+    text-align: center;
+    font-size: 14.5px;
+    color: #394870;
+    cursor: pointer;
+    transition: all 0.6s ease-in-out;
+    margin: 6px 0;
+}.itemCant:hover{
+    color: lightblue;
+    transition: all 0.6s ease-in-out;
+}
+.item-Precio{
+    text-align: center;
+    font-size: 20px;
+    color: #394870;
+    margin-top: 12px;
+    margin-bottom: 10px;
+}
+/* .item-Precio:hover{
+     color: #f17a7a; 
+     color: lightblue;
+    transition: all 0.6s ease-in-out; 
+} */
+.ItemImg{
+    height: 170px;
+    cursor: pointer;
+    transition: all 0.5s ease-out;  
+}.ItemImg:hover{
+    transform: scale(1.1);
+    transition: all 0.5s ease-out;
+}
+.ItemCount{
+    color:#888;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 12px;
+    cursor: pointer;   
+}
+.precios{
+    display: flex;
+    justify-content: center;
+}
+.item-PrecioConDescuento{
+    text-align: center;
+    font-size: 20px;
+    color: #580808;
+    margin-top: 12px;
+    text-decoration:line-through;
+       
+}
+.LinkDetalle{
+    text-align: center;
+    align-content: center;
+    padding: 3px;
+    border-radius: 50px;
+    /* border: 1.5px solid #1463ad; */
+    /* text-decoration: none; */
+    color: #0d5dc7;
+    font-size: 14px;
+    transition: all 0.1s ease-in-out;
+
+
+}.LinkDetalle:hover{
+    color: rgb(104, 147, 202);
+    transition: all 0.1s ease-in-out;
+    text-decoration-line: underline;
+}
+.TerminarCompra{
+    text-decoration: none;
+    
+}
+.TerminarCompra:hover{
+    
+    font-weight: 500;
+    /* color:#768cca; */
+    /* text-decoration-line: underline; */
+}

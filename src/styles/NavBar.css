@@ -1,0 +1,121 @@
+.titleNav{
+    animation-name: animatedivNav;
+    animation-iteration-count: infinite ;
+    animation-duration: 3s;
+    animation-delay: 1s;
+    text-decoration: none;
+    color: grey;
+    font-family: cursive;
+}
+.titleNavBar{
+    animation-name: animatedivNavBar;
+    animation-iteration-count: infinite ;
+    animation-duration: 2s;
+    animation-delay: 1s;
+    text-decoration: none;
+    color: grey;
+    font-family: cursive;
+    padding: 10px;
+    font-size: 20.5px;
+}
+@keyframes animatedivNavBar{
+    0%{color: white;}
+    50%{color: lightblue;}
+    100%{color: white;}
+} 
+@keyframes animatedivNav{
+    0%{color: white;}
+    50%{color: lightblue;}
+    100%{color: grey;}
+}
+.HomeBar{
+    text-decoration: none;
+    color:grey;
+    gap:0;
+    font-family: cursive;
+}.HomeBar:hover{
+    color:lightblue
+}
+.ProductosBar{
+    text-decoration: none;
+    color:grey;
+    gap:0;
+    font-family: cursive;
+}.ProductosBar:hover{
+    color:lightblue
+}
+.ContactoBar{
+    text-decoration: none;
+    color:grey;
+    gap:0;
+    font-family: cursive;
+}.ContactoBar:hover{
+    color:lightblue
+}
+.HomeBar1{
+    text-decoration: none;
+    color:lightblue;
+    gap:0;
+    font-family: cursive;
+    font-size: 25px;   
+}
+.MenuProductos{
+    color: #8cbcd8;
+    font-family: cursive;
+    text-decoration: none;
+    font-size: 18px;
+}
+.MenuNavItem{
+    margin-left: 658px;
+    margin-top: 40.2px;
+}@media (min-width:600px){
+    .MenuNavItem{
+        margin-left: 305px;
+        margin-top: 50.2px;
+    }
+}@media (min-width:627px){
+    .MenuNavItem{
+        margin-left: 455px;
+        margin-top: 20.2px;
+    }
+}@media (min-width:775px){
+    .MenuNavItem{
+        margin-left: 525px;
+        margin-top: 35.2px;
+    }
+}@media (min-width:900px){
+    .MenuNavItem{
+        margin-left: 655px;
+        margin-top: 35.2px;
+    }
+}@media (min-width:1035px){
+    .MenuNavItem{
+        margin-left: 675px;
+        margin-top: 35.2px;
+    }
+}@media (min-width:1070px){
+    .MenuNavItem{
+        margin-left: 745px;
+        margin-top: 35.2px;
+    }
+}@media (min-width:1140px){
+    .MenuNavItem{
+        margin-left: 815px;
+        margin-top: 35.2px;
+    }
+}@media (min-width:1200px){
+    .MenuNavItem{
+        margin-left: 915px;
+        margin-top: 35.2px;
+    }
+}@media (min-width:1300px){
+    .MenuNavItem{
+        margin-left: 955px;
+        margin-top: 35.2px;
+    }
+}@media (min-width:1330px){
+    .MenuNavItem{
+        margin-left: 995px;
+        margin-top: 35.2px;
+    }
+}

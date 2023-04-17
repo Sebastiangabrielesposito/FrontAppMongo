@@ -1,0 +1,74 @@
+.title{
+    text-align: center;
+    font-size: 43px;
+    color: #394870;
+    /* color: #f17a7a; */
+    margin-top: 0px;
+    cursor: pointer;
+    background: black;
+    padding: 100px;
+    transition: all 0.6s ease-out;
+    animation-name: animatediv;
+    animation-iteration-count: infinite ;
+    animation-duration: 4s;
+    animation-delay: 1s;
+
+    /* font-family: 'Inspiration', cursive; */
+    /* font-family: 'Alegreya SC', serif; */
+}@media (max-width: 690px){
+    .title{
+        font-size: 30px;
+    }
+}@media (max-width: 542px){
+    .title{
+        font-size: 20px;
+    }
+}@media (max-width: 450px){
+    .title{
+        font-size: 14px;
+        padding: 80px;
+    }
+}@media (max-width: 400px){
+    .title{
+        font-size: 10px;
+        padding: 80px;
+    }
+}
+.SubTitle1{
+    font-size: 20px;
+    margin-top: 6px;
+}
+@media (max-width: 690px){
+    .SubTitle1{
+        font-size: 15px;
+    }
+}@media (max-width: 542px){
+    .SubTitle1{
+        font-size: 12px;
+    }
+}@media (max-width: 450px){
+    .SubTitle1{
+        font-size: 9px;
+    }
+}
+@media (max-width: 400px){
+    .SubTitle1{
+        font-size: 7px;
+    }
+}
+
+
+
+
+@keyframes animatediv{
+    0%{color: #394870;}
+    50%{color: #8cbcd8;}
+    100%{color: #394870;}
+}
+.subtitle{
+    text-align: center;
+    animation-name: animatediv;
+    animation-iteration-count: infinite ;
+    animation-duration: 4s;
+    animation-delay: 1s;
+}

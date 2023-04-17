@@ -1,0 +1,64 @@
+.DFlex{
+    display: flex;
+    justify-content: center;
+}
+.divimgProducts{
+    text-align: center;
+    background-color: black;
+    width: 100%;
+}
+
+.imgProducts{
+    width: 750px;
+}@media (max-width: 730px){
+    .imgProducts{
+        width: 100%;  
+    }
+}   
+.titlee{
+    text-align: center;
+    font-size: 30px;
+    color: #394870;
+    /* color: #f17a7a; */
+    margin-top: 0px;
+    cursor: pointer;
+    /* background: rgb(194, 192, 192); */
+    padding: 50px;
+    /* font-family: 'Inspiration', cursive; */
+    /* font-family: 'Alegreya SC', serif; */
+}.titlee:hover{
+    /* color: #f17a7a; */
+    color: #8cbcd8;
+    transition: all 0.6s ease-out;
+};
+
+.titulo{
+    text-align: center;
+    font-size: 15px;
+    color: #394870;
+    /* color: #f17a7a; */
+    /* margin-top: 15px; */
+    cursor: pointer;
+}.titulo:hover{
+    /* color: #f17a7a; */
+    color: lightblue;
+    transition: all 0.6s ease-in-out;
+}
+
+
+/* .title:hover{
+    color: #8cbcd8;
+    transition: all 0.6s ease-out;
+}; */
+/* 
+@keyframes animatesubtitle{
+    0%{color: #394870;}
+    50%{color: #f17a7a;}
+    100%{color: #394870;}
+}
+.subtitle{
+    animation-name: animatesubtitle;
+    animation-iteration-count: infinite ;
+    animation-duration: 4s;
+    animation-delay: 1s;
+} */
