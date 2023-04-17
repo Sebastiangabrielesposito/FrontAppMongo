@@ -1,12 +1,12 @@
 # Universal-Market E-commerce
 
-Pootecto alojado en Github Pages = [(http://Sebastiangabrielesposito.github.io/FrontAppMongo/)]
+Pootecto alojado en Github Pages = [(http://Sebastiangabrielesposito.github.io/UniversalMarket/)]
 
 ## Proyecto E-commerce de suplementos deportivos
 
 ## Home 
 
-En este proyecto puede encontrarse en su pagina de inicio (Home) [(http://localhost:3000/FrontAppMongo/)]
+En este proyecto puede encontrarse en su pagina de inicio (Home) [(http://localhost:3000/UniversalMarket/)]
 una sección de productos destacados con descuentos, donde se puede acceder al detalle de producto y su posterior compra en el carrito (car) [(http://localhost:3000/Universal-Market_React/car)],
 un boton en la parte inferior de la pagina que enlaza con la pagina donde estan todos los productos (ItemListContainer)
 [(http://localhost:3000/Universal-Market_React/productos)], debajo del enlace un gif con publicidad.
