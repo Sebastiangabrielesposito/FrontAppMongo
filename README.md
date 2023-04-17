@@ -1,6 +1,6 @@
 # Universal-Market E-commerce
 
-Pootecto alojado en Github Pages = [(https://sebastiangabrielesposito.github.io/Universal-Market_React/)]
+Pootecto alojado en Github Pages = [(https://sebastiangabrielesposito.github.io/universalMarket)]
 
 ## Proyecto E-commerce de suplementos deportivos
 
