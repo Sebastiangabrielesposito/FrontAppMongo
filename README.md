@@ -1,6 +1,6 @@
 # Universal-Market E-commerce
 
-Pootecto alojado en Github Pages = [(https://sebastiangabrielesposito.github.io/FrontAppMongo/)]
+Pootecto alojado en Github Pages = [(http://Sebastiangabrielesposito.github.io/FrontAppMongo/)]
 
 ## Proyecto E-commerce de suplementos deportivos
 
