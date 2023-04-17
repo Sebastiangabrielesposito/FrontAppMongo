@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FrontAppMongo/static/css/main.b5bb2c66.css",
-    "main.js": "/FrontAppMongo/static/js/main.7b524715.js",
+    "main.js": "/FrontAppMongo/static/js/main.62f1f134.js",
     "static/media/GanadorMassTech.webp": "/FrontAppMongo/static/media/GanadorMassTech.bfaa8d049ebf28d50e28.webp",
     "static/media/CreatinaUltimate.webp": "/FrontAppMongo/static/media/CreatinaUltimate.d2f49b9b80b240038967.webp",
     "static/media/AminoBsn.webp": "/FrontAppMongo/static/media/AminoBsn.0d135200af54c9e3da2d.webp",
@@ -14,10 +14,10 @@
     "static/media/slick.woff": "/FrontAppMongo/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/FrontAppMongo/index.html",
     "main.b5bb2c66.css.map": "/FrontAppMongo/static/css/main.b5bb2c66.css.map",
-    "main.7b524715.js.map": "/FrontAppMongo/static/js/main.7b524715.js.map"
+    "main.62f1f134.js.map": "/FrontAppMongo/static/js/main.62f1f134.js.map"
   },
   "entrypoints": [
     "static/css/main.b5bb2c66.css",
-    "static/js/main.7b524715.js"
+    "static/js/main.62f1f134.js"
   ]
 }
